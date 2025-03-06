@@ -1,1 +1,1 @@
-# Gesti-nConfiguraci-n_Grupo1
+# GestionConfiguracion_Grupo1
